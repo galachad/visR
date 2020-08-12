@@ -43,7 +43,6 @@ Imports:
     patchwork,
     tibble,    
     RBesT,
-    DOT,
     tidyr,
     dplyr,
     ggpubr,
